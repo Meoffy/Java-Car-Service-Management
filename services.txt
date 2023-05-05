@@ -1,0 +1,1 @@
+[ID 3, Powierzchnia 200.0, Pojazd [], ID 4, Powierzchnia 300.0, Pojazd []][ID 5, Powierzchnia 400.0, Pojazd [], ID 6, Powierzchnia 300.0, Pojazd []]

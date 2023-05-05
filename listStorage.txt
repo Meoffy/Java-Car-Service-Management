@@ -1,0 +1,1 @@
+[ID 0, Powierzchnia 300.0, Przedmiot [], ID 1, Powierzchnia 400.0, Przedmiot [], ID 2, Powierzchnia 450.0, Przedmiot []]
